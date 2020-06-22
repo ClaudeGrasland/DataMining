@@ -1,0 +1,73 @@
+VAR_ID;VAR_LIB;VAR_LIB_LONG
+IRIS;IRIS;Code du département suivi du numéro de commune ou du numéro d'arrondissement municipal suivi du numéro d'IRIS
+REG;Région;Code de la région
+DEP;Département;Code du département
+UU2010;Unité urbaine;"Code du département ou ""00"" pour les unités urbaines qui s'étendent sur plusieurs départements voire au-delà de la frontière suivi d'un code sur une position indiquant la taille de la population puis d'un numéro d'ordre à l'intérieur de la taille"
+COM;Commune ou ARM;Code du département suivi du numéro de commune ou du numéro d'arrondissement municipal pour Paris Lyon et Marseille
+LIBCOM;Libellé commune ou ARM;Libellé de la commune ou de l'arrondissement municipal pour Paris Lyon et Marseille
+TRIRIS;TRIRIS;Code du département suivi d'un numéro d'ordre à l'intérieur du département sur trois positions puis d'un indicateur de TRIRIS
+GRD_QUART;Grand quartier;Code du département suivi du numéro de commune ou du numéro d'arrondissement municipal pour Paris Lyon et Marseille suivi du numéro de grand quartier
+LIBIRIS;Libellé de l'IRIS;Libellé de l'IRIS à l'intérieur de la commune ou de l'arrondissement municipal pour Paris Lyon et Marseille
+TYP_IRIS;Type d'IRIS;Type d'IRIS : habitat (H), activité (A), divers (D), Autre (Z)
+MODIF_IRIS;Modification de l'IRIS;Type de modification de l'IRIS
+LAB_IRIS;Label de l'IRIS;Label de qualité de l'IRIS
+C16_MEN;Ménages en 2016 (compl);Nombre de ménages
+C16_MENPSEUL;Ménages 1 personne en 2016 (compl);Nombre de ménages d'une personne
+C16_MENHSEUL;Ménages Hommes seuls en 2016 (compl);Nombre de ménages composés d'hommes seuls
+C16_MENFSEUL;Ménages Femmes seules en 2016 (compl);Nombre de ménages composés de femmes seules
+C16_MENSFAM;Ménages Autres sans famille en 2016 (compl);Nombre de ménages autres sans famille
+C16_MENFAM;Ménages avec famille(s) en 2016 (compl);Nombre de ménages avec famille(s)
+C16_MENCOUPSENF;Mén fam princ Couple sans enfant en 2016 (compl);Nombre de ménages dont la famille principale est formée d'un couple sans enfant
+C16_MENCOUPAENF;Mén fam princ Couple avec enfant(s) en 2016 (compl);Nombre de ménages dont la famille principale est formée d'un couple avec enfant(s)
+C16_MENFAMMONO;Mén fam princ Famille mono en 2016 (compl);Nombre de ménages dont la famille principale est une famille monoparentale
+C16_PMEN;Pop Ménages en 2016 (compl);Nombre de personnes des ménages
+C16_PMEN_MENPSEUL;Pop mén Personnes seules en 2016 (compl);Nombre de personnes des ménages d'une personne
+C16_PMEN_MENHSEUL;Pop mén Hommes seuls en 2016 (compl);Nombre de personnes des ménages composés d'hommes seuls
+C16_PMEN_MENFSEUL;Pop mén Femmes seules en 2016 (compl);Nombre de personnes des ménages composés de femmes seules
+C16_PMEN_MENSFAM;Pop mén Autres sans famille en 2016 (compl);Nombre de personnes des ménages Autres sans famille
+C16_PMEN_MENFAM;Pop mén avec famille(s) en 2016 (compl);Nombre de personnes des ménages avec famille(s)
+C16_PMEN_MENCOUPSENF;Pop mén fam princ Couple sans enfant en 2016 (compl);Nombre de personnes des ménages dont la famille principale est un couple sans enfant
+C16_PMEN_MENCOUPAENF;Pop mén fam princ Couple avec enfant(s) en 2016 (compl);Nombre de personnes des ménages dont la famille principale est un couple avec enfant(s)
+C16_PMEN_MENFAMMONO;Pop mén fam princ Famille mono en 2016 (compl);Nombre de personnes des ménages dont la famille principale est une famille monoparentale
+P16_POP15P;Pop 15 ans ou plus en 2016 (princ);Nombre de personnes de 15 ans ou plus
+P16_POP1524;Pop 15-24 ans en 2016 (princ);Nombre de personnes de 15 à 24 ans
+P16_POP2554;Pop 25-54 ans en 2016 (princ);Nombre de personnes de 25 à 54 ans
+P16_POP5579;Pop 55-79 ans en 2016 (princ);Nombre de personnes de 55 à 79 ans
+P16_POP80P;Pop 80 ans ou plus en 2016 (princ);Nombre de personnes de 80 ans ou plus
+P16_POPMEN15P;Pop mén 15 ans ou plus en 2016 (princ);Nombre de personnes des ménages de 15 ans ou plus
+P16_POPMEN1524;Pop mén 15-24 ans en 2016 (princ);Nombre de personnes des ménages de 15 à 24 ans
+P16_POPMEN2554;Pop mén 25-54 ans en 2016 (princ);Nombre de personnes des ménages de 25 à 54 ans
+P16_POPMEN5579;Pop mén 55-79 ans en 2016 (princ);Nombre de personnes des ménages de 55 à 79 ans
+P16_POPMEN80P;Pop mén 80 ans ou plus en 2016 (princ);Nombre de personnes des ménages de 80 ans ou plus
+P16_POP15P_PSEUL;Pop 15 ans ou plus ans vivant seule en 2016 (princ);Nombre de personnes de 15 ans ou plus vivant seules
+P16_POP1524_PSEUL;Pop 15-24 ans vivant seule en 2016 (princ);Nombre de personnes de 15 à 24 ans vivant seules
+P16_POP2554_PSEUL;Pop 25-54 ans vivant seule en 2016 (princ);Nombre de personnes de 25 à 54 ans vivant seules
+P16_POP5579_PSEUL;Pop 55-79 ans vivant seule en 2016 (princ);Nombre de personnes de 55 à 79 ans vivant seules
+P16_POP80P_PSEUL;Pop 80 ans ou plus vivant seule en 2016 (princ);Nombre de personnes de 80 ans ou plus vivant seules
+P16_POP15P_MARIEE;Pop 15 ans ou plus Mariée en 2016 (princ);Nombre de personnes de 15 ans ou plus mariées
+P16_POP15P_NONMARIEE;Pop 15 ans ou plus Non mariée en 2016 (princ);Nombre de personnes de 15 ans ou plus non mariées
+C16_MEN_CS1;Ménages Pers Réf Agri. expl. en 2016 (compl);Nombre de ménages dont la personne de référence est Agriculteur exploitant
+C16_MEN_CS2;Ménages Pers Réf Art. Comm. Chef entr. en 2016 (compl);Nombre de ménages dont la personne de référence est Artisan, Commerçant, Chef d'entreprise
+C16_MEN_CS3;Ménages Pers Réf Cadre Prof int sup en 2016 (compl);Nombre de ménages dont la personne de référence est Cadre ou exerce une Profession intellectuelle supérieure
+C16_MEN_CS4;Ménages Pers Réf Prof intermédiaire en 2016 (compl);Nombre de ménages dont la personne de référence exerce une Profession intermédiaire
+C16_MEN_CS5;Ménages Pers Réf Employé en 2016 (compl);Nombre de ménages dont la personne de référence est Employé
+C16_MEN_CS6;Ménages Pers Réf Ouvrier en 2016 (compl);Nombre de ménages dont la personne de référence est Ouvrier
+C16_MEN_CS7;Ménages Pers Réf Retraité en 2016 (compl);Nombre de ménages dont la personne de référence est Retraité
+C16_MEN_CS8;Ménages Pers Réf Autre en 2016 (compl);Nombre de ménages dont la personne de référence est Autre sans activité professionnelle
+C16_PMEN_CS1;Pop mén Pers Réf Agri. expl. en 2016 (compl);Nombre de personnes des ménages dont la personne de référence est Agriculteur exploitant
+C16_PMEN_CS2;Pop mén Pers Réf Art Com Chef entr. en 2016 (compl);Nombre de personnes des ménages dont la personne de référence est Artisan, Commerçant, Chef d'entreprise
+C16_PMEN_CS3;Pop mén Pers Réf Cadre Prof int sup en 2016 (compl);Nombre de personnes des ménages dont la personne de référence est Cadre ou exerce une Profession intellectuelle supérieure
+C16_PMEN_CS4;Pop mén Pers Réf Prof intermédiaire en 2016 (compl);Nombre de personnes des ménages dont la personne de référence exerce une Profession intermédiaire
+C16_PMEN_CS5;Pop mén Pers Réf Employé en 2016 (compl);Nombre de personnes des ménages dont la personne de référence est Employé
+C16_PMEN_CS6;Pop mén Pers Réf Ouvrier en 2016 (compl);Nombre de personnes des ménages dont la personne de référence est Ouvrier
+C16_PMEN_CS7;Pop mén Pers Réf Retraité en 2016 (compl);Nombre de personnes des ménages dont la personne de référence est Retraité
+C16_PMEN_CS8;Pop mén Pers Réf Autre en 2016 (compl);Nombre de personnes des ménages dont la personne de référence est Autre sans activité professionnelle
+C16_FAM;Familles en 2016 (compl);Nombre de familles
+C16_COUPAENF;Fam Couple avec enfant(s) en 2016 (compl);Nombre de familles formées d'un couple avec enfant(s)
+C16_FAMMONO;Fam Monoparentales en 2016 (compl);Nombre de familles monoparentales
+C16_COUPSENF;Fam Couple sans enfant en 2016 (compl);Nombre de familles formées d'un couple sans enfant
+C16_NE24F0;Fam 0 enfant moins 25 ans en 2016 (compl);Nombre de familles avec 0 enfant de moins de 25 ans
+C16_NE24F1;Fam 1 enfant moins 25 ans en 2016 (compl);Nombre de familles avec 1 enfant de moins de 25 ans
+C16_NE24F2;Fam 2 enfants moins 25 ans en 2016 (compl);Nombre de familles avec 2 enfants de moins de 25 ans
+C16_NE24F3;Fam 3 enfants moins 25 ans en 2016 (compl);Nombre de familles avec 3 enfants de moins de 25 ans
+C16_NE24F4P;Fam 4 enfants ou plus moins 25 ans en 2016 (compl);Nombre de familles avec 4 enfants ou plus de moins de 25 ans
